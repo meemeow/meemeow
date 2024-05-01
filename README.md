@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emerson B. Clamorhawha</h1>
+<h1 align="center">Hi 👋, I'm Emerson B. Clamor</h1>
 <h3 align="center">A eager person who strive to finish a given task on hand as soon as possible</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meemeow&label=Profile%20views&color=0ec475&style=plastic" alt="meemeow" /> </p>
