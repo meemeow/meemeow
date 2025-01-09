@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emerson B. Clamor</h1>
+<h1 align="center">Hi 👋, I'm Emerson Clamor</h1>
 <h3 align="center">Passionate IT undergraduate specializing in web and mobile application development. Proficient in Python, C++, Java, Swift, and Kotlin, with strong skills in HTML, CSS, JavaScript, and the CodeIgniter framework. Committed to creating efficient and user-friendly solutions while continuously expanding technical expertise.</h3>
 
 - 🌱 I’m currently learning **Bachelor of Science in Information Technology**
