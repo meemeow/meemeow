@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Bachelor of Science in Information Technology**
 
-- 👨‍💻 All of my projects are available at [https://github.com/meemeow/AWD-FEUTECH/tree/main](https://github.com/meemeow/AWD-FEUTECH/tree/main)
+- 👨‍💻 All of my projects are available at [https://github.com/meemeow/AWD-FEUTECH/tree/main](https://github.com/meemeow)
 
-- 📫 How to reach me **emersonclamor32@gmail.com**
-
-- 📄 Know about my experiences [iDontHaveExperiencexD.com](iDontHaveExperiencexD.com)
+- 📫 How to reach me **emerson.clamor.prof@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
