@@ -1,18 +1,91 @@
-<h1 align="center">Hi 👋, I'm Emerson Clamor</h1>
-<h3 align="center">Passionate IT undergraduate specializing in web and mobile application development. Proficient in Python, C++, Java, Swift, and Kotlin, with strong skills in HTML, CSS, JavaScript, and the CodeIgniter framework. Committed to creating efficient and user-friendly solutions while continuously expanding technical expertise.</h3>
+<h1 align="center">Hi, I'm Emerson Clamor 👋</h1>
+<h3 align="center">
+Information Technology Undergraduate · Web & Mobile Application Developer
+</h3>
 
-- 🌱 I’m currently learning **Bachelor of Science in Information Technology**
-
-- 👨‍💻 All of my projects are available at [https://github.com/meemeow](https://github.com/meemeow)
-
-- 📫 How to reach me **emerson.clamor.prof@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emerson-clamor-1566a1345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/emerson-clamor-1566a1345" height="30" width="40" /></a>
-<a href="https://fb.com/memoclamor01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com/memoclamor01" height="30" width="40" /></a>
-<a href="https://instagram.com/_memorizzzz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_memorizzzz_" height="30" width="40" /></a>
+<p align="center">
+Building practical, scalable, and user-focused applications using modern web and mobile technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+I am a **Bachelor of Science in Information Technology undergraduate** with a strong interest in **web and mobile application development**.  
+I enjoy transforming ideas into clean, functional, and maintainable software solutions.
+
+My technical focus includes **full-stack web development**, **mobile app development**, and **database-driven systems**, with continuous learning in modern frameworks and best practices.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- C++
+- Java
+- JavaScript
+- PHP
+- Swift
+- Kotlin
+
+### Web Development
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript (ES6+)
+- CodeIgniter
+- Tailwind
+- React
+- NextJS
+
+### Mobile Development
+- Android (Java & Kotlin)
+- iOS (Swift)
+- ReactNative
+
+### Databases
+- MySQL
+- Oracle
+- Firebase Storage & Firestore
+
+### Tools & Platforms
+- Git & GitHub
+- Android Studio
+- Visual Studio Code
+
+---
+
+## 📂 Projects
+
+All of my academic and personal projects are available on GitHub:  
+🔗 **[github.com/meemeow](https://github.com/meemeow)**
+
+---
+
+## 📫 Contact
+
+- 📧 **Email:** emerson.clamor.prof@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/emerson-clamor/](https://www.linkedin.com/in/emerson-clamor/)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/emerson-clamor-1566a1345" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://fb.com/memoclamor01" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+</a>
+<a href="https://instagram.com/_memorizzzz_" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+🚀 Always learning · Always building
+</p>
