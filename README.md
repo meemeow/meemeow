@@ -149,15 +149,6 @@ BS Information Technology, Specialization in Web and Mobile Applications
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=meemeow&show_icons=true&hide_border=true&title_color=E8956B&icon_color=E8956B&text_color=9A9A9A&bg_color=00000000"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meemeow&layout=compact&hide_border=true&title_color=E8956B&text_color=9A9A9A&bg_color=00000000"/>
-</p>
-
----
-
 ## 📫 Get In Touch
 
 <p align="center">
