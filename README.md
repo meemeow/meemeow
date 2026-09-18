@@ -22,7 +22,7 @@ Frontend Developer with experience building responsive web applications using **
 - 🧩 I build **reusable UI components** and refactor component architectures for maintainability
 - 🔌 I integrate **backend services and APIs** — Firebase Auth, Firestore, and Cloud Functions
 - 📱 I care about **responsive interfaces** that hold up across every screen size
-- 🎓 Graduating **September 2026** — BSIT, Specialization in Web & Mobile Applications
+- 🎓 Graduated on **September 2026** — BSIT, Specialization in Web & Mobile Applications
 
 ---
 
